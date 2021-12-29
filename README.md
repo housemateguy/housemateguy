@@ -3,7 +3,7 @@
 My name is **Houssem Chouia** (He/Him) and I have a masters degree in **Artificial intelligence** 🤖 and **Data processing** 📊 👨‍🎓. I'm a **Python developer** 👨‍💻/ 🤖👨‍💻 with a decent academic background 🦾. I'm from Algeria, living in Annaba find me on Linkedin [![LinkedIn][3.2]][3].
 
 [![Linkedin: Chouia Houssem](https://img.shields.io/badge/-ChouiaHoussem-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chouia-houssem/)](https://www.linkedin.com/in/chouia-houssem/)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:chouia.houssem@email.com)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:chouia.houssem@gmail.com)
 [![GitHub Housemateguy](https://img.shields.io/github/followers/housemateguy?label=follow&style=social)](https://github.com/housemateguy)
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=housemateguy)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
