@@ -8,7 +8,7 @@ My name is **Houssem Chouia** (He/Him) and I have a masters degree in **Artifici
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](mailto:chouia.houssem@gmail.com)
 [![GitHub Housemateguy](https://img.shields.io/github/followers/housemateguy?label=follow&style=social)](https://github.com/housemateguy)
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=housemateguy)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) [![wakatime](https://wakatime.com/badge/user/e1d28f63-3e79-4571-ac83-6501a5b70691.svg)](https://wakatime.com/@e1d28f63-3e79-4571-ac83-6501a5b70691)
 
 [![Some Unrelated cool art I made years ago, thought it would look cool..](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/086063ff-75de-42c1-9ada-b879a51f81b4/darhrcw-3af2be04-2a1b-418d-b310-57b6459c8fbb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA4NjA2M2ZmLTc1ZGUtNDJjMS05YWRhLWI4NzlhNTFmODFiNFwvZGFyaHJjdy0zYWYyYmUwNC0yYTFiLTQxOGQtYjMxMC01N2I2NDU5YzhmYmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pitFAJD4y8JkDKc59UpFfW59NhFMcqplNy0Qn0emICY)](https://www.deviantart.com/houssem8/art/Pixel-Louis-Little-Fighter-2-650840000)
 
