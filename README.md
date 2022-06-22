@@ -1,6 +1,8 @@
 <div align="center">
 
-# ➜  ~   Hello, my name is Houssem Chouia 🦾! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# ➜  ~   Hello, my name is Houssem Chouia 🦾!
+ 
+ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="width: 30px">
 
 My name is **Houssem Chouia** (He/Him) and I have a masters degree in **Artificial intelligence** 🤖 and **Data processing** 📊 👨‍🎓. I'm a **Python developer** 👨‍💻/ 🤖👨‍💻 with a decent academic background 🦾. I'm from Algeria, living in Annaba find me on Linkedin [![LinkedIn][3.2]][3].
 
